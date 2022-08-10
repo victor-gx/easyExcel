@@ -1,0 +1,9 @@
+
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(âÊ’Ëøÿÿÿÿ
+d	java:S116"ORename this field "PATH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦»ê
+c
+java:S3252#"HUse static access with "com.alibaba.excel.EasyExcelFactory" for "write".(Í·ßıÿÿÿÿ
+]
+java:S3252,"GUse static access with "com.alibaba.excel.EasyExcelFactory" for "read".(ôìëæ
+Q	java:S125."<This block of commented-out lines of code should be removed.(ò²§ë

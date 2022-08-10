@@ -1,0 +1,80 @@
+
+[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¥èé
+`	java:S112("FDefine and throw a dedicated exception instead of using a generic one.(–»Ëÿÿÿÿÿ
+`	java:S112;"FDefine and throw a dedicated exception instead of using a generic one.(ŞŞ½Çúÿÿÿÿ
+[	java:S112Œ"FDefine and throw a dedicated exception instead of using a generic one.(õö‰S
+g	java:S117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØË¸
+b
+java:S1301š"KReplace this "switch" statement by "if" statements to increase readability.(«Ğƒ
+e
+java:S2095,"JUse try-with-resources or close this "XSSFWorkbook" in a "finally" clause.(¿ûÃ³şÿÿÿÿ
+`
+java:S2095"JUse try-with-resources or close this "HSSFWorkbook" in a "finally" clause.(¢¹Ø¤
+h
+java:S2095*"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(äÑîêøÿÿÿÿ
+e
+java:S2095A"JUse try-with-resources or close this "XSSFWorkbook" in a "finally" clause.(¿ûÃ³şÿÿÿÿ
+d
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ÈëÖÔ
+h
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(·Ë™ôÿÿÿÿÿ
+d	java:S116"ORename this field "PATH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦»ê
+M	java:S106#"9Replace this use of System.out or System.err by a logger.(½¤C
+M	java:S1066"9Replace this use of System.out or System.err by a logger.(½¤C
+m
+java:S3776;"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(ŞŞ½Çúÿÿÿÿ
+R
+java:S1854L"<Remove this useless assignment to local variable "cellType".(‘ÙÂˆ
+I
+java:S1874L"3Remove this use of "getCellType"; it is deprecated.(‘ÙÂˆ
+C
+java:S1481L"-Remove this unused "cellType" local variable.(‘ÙÂˆ
+S	java:S106N"9Replace this use of System.out or System.err by a logger.(¤ÅÔÆüÿÿÿÿ
+S	java:S106Q"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106]"9Replace this use of System.out or System.err by a logger.(…àòÂüÿÿÿÿ
+I
+java:S1874b"3Remove this use of "getCellType"; it is deprecated.(‘ÙÂˆ
+7	java:S131e""Add a default case to this switch.(«Ğƒ
+f
+java:S3252f"QUse static access with "org.apache.poi.ss.usermodel.Cell" for "CELL_TYPE_STRING".(Ëæœ>
+M
+java:S1874f"8Remove this use of "CELL_TYPE_STRING"; it is deprecated.(Ëæœ>
+S	java:S106g"9Replace this use of System.out or System.err by a logger.(ÊŒÕÄúÿÿÿÿ
+h
+java:S3252j"RUse static access with "org.apache.poi.ss.usermodel.Cell" for "CELL_TYPE_BOOLEAN".(–Ø¢Ö
+O
+java:S1874j"9Remove this use of "CELL_TYPE_BOOLEAN"; it is deprecated.(–Ø¢Ö
+S	java:S106k"9Replace this use of System.out or System.err by a logger.(Æ£èèıÿÿÿÿ
+k
+java:S3252n"PUse static access with "org.apache.poi.ss.usermodel.Cell" for "CELL_TYPE_BLANK".(¦¡ù»øÿÿÿÿ
+R
+java:S1874n"7Remove this use of "CELL_TYPE_BLANK"; it is deprecated.(¦¡ù»øÿÿÿÿ
+N	java:S106o"9Replace this use of System.out or System.err by a logger.(—…‡î
+m
+java:S3252q"RUse static access with "org.apache.poi.ss.usermodel.Cell" for "CELL_TYPE_NUMERIC".(Ş®¶úÿÿÿÿ
+T
+java:S1874q"9Remove this use of "CELL_TYPE_NUMERIC"; it is deprecated.(Ş®¶úÿÿÿÿ
+S	java:S106r"9Replace this use of System.out or System.err by a logger.(ÔùÔäıÿÿÿÿ
+s
+java:S3252s"XUse static access with "org.apache.poi.ss.usermodel.DateUtil" for "isCellDateFormatted".(¡¥€æşÿÿÿÿ
+N	java:S106t"9Replace this use of System.out or System.err by a logger.(½®İƒ
+M	java:S106y"9Replace this use of System.out or System.err by a logger.(Ïá³
+I
+java:S1874z"3Remove this use of "setCellType"; it is deprecated.(ÂÔá‡
+g
+java:S3252z"QUse static access with "org.apache.poi.ss.usermodel.Cell" for "CELL_TYPE_STRING".(ÂÔá‡
+N
+java:S1874z"8Remove this use of "CELL_TYPE_STRING"; it is deprecated.(ÂÔá‡
+e
+java:S3252~"PUse static access with "org.apache.poi.ss.usermodel.Cell" for "CELL_TYPE_ERROR".(šÙÚ6
+L
+java:S1874~"7Remove this use of "CELL_TYPE_ERROR"; it is deprecated.(šÙÚ6
+N	java:S106"9Replace this use of System.out or System.err by a logger.(š–ñæ
+T	java:S106‚"9Replace this use of System.out or System.err by a logger.(ÈŞ³”ıÿÿÿÿ
+J
+java:S1874™"3Remove this use of "getCellType"; it is deprecated.(‘ÙÂˆ
+8	java:S131š""Add a default case to this switch.(«Ğƒ
+P
+java:S1874›"9Remove this use of "CELL_TYPE_FORMULA"; it is deprecated.(£Öß€
+T	java:S106"9Replace this use of System.out or System.err by a logger.(âË¡ôÿÿÿÿÿ
+T	java:S106¢"9Replace this use of System.out or System.err by a logger.(ÈŞ³”ıÿÿÿÿ
