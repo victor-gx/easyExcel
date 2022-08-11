@@ -6,18 +6,18 @@
 g	java:S117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØË¸
 b
 java:S1301š"KReplace this "switch" statement by "if" statements to increase readability.(«Ğƒ
-e
-java:S2095,"JUse try-with-resources or close this "XSSFWorkbook" in a "finally" clause.(¿ûÃ³şÿÿÿÿ
-`
-java:S2095"JUse try-with-resources or close this "HSSFWorkbook" in a "finally" clause.(¢¹Ø¤
+h
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(·Ë™ôÿÿÿÿÿ
 h
 java:S2095*"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(äÑîêøÿÿÿÿ
+`
+java:S2095"JUse try-with-resources or close this "HSSFWorkbook" in a "finally" clause.(¢¹Ø¤
 e
 java:S2095A"JUse try-with-resources or close this "XSSFWorkbook" in a "finally" clause.(¿ûÃ³şÿÿÿÿ
 d
 java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ÈëÖÔ
-h
-java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(·Ë™ôÿÿÿÿÿ
+e
+java:S2095,"JUse try-with-resources or close this "XSSFWorkbook" in a "finally" clause.(¿ûÃ³şÿÿÿÿ
 d	java:S116"ORename this field "PATH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦»ê
 M	java:S106#"9Replace this use of System.out or System.err by a logger.(½¤C
 M	java:S1066"9Replace this use of System.out or System.err by a logger.(½¤C
