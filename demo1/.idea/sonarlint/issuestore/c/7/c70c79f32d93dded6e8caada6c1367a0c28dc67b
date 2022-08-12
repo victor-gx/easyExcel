@@ -1,0 +1,27 @@
+
+t
+java:S2293$"YReplace the type specification in this constructor call with the diamond operator ("<>").(ì¯–úÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¹õÔ´ùÿÿÿÿ
+m
+java:S3776!"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ãÅÆ şÿÿÿÿ
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(¤Œº±
+N
+java:S1874@"3Remove this use of "getCellType"; it is deprecated.(Ú•áùÿÿÿÿ
+L	java:S106A"9Replace this use of System.out or System.err by a logger.(Üô5
+]	java:S125B"<This block of commented-out lines of code should be removed.(õøÇÔøÿÿÿÿ8ÖëÚİ¨0
+L	java:S106G"9Replace this use of System.out or System.err by a logger.(Üô5
+X	java:S125H"<This block of commented-out lines of code should be removed.(„š¹ì8ÏÆÛİ¨0
+N
+java:S1874K"3Remove this use of "setCellType"; it is deprecated.(ÜªÏşÿÿÿÿ
+S
+java:S1874K"8Remove this use of "CELL_TYPE_STRING"; it is deprecated.(ÜªÏşÿÿÿÿ
+S	java:S106N"9Replace this use of System.out or System.err by a logger.(Üô58§ŸÚİ¨0
+]	java:S125O"<This block of commented-out lines of code should be removed.(£åÇ¾úÿÿÿÿ8î‹Üİ¨0
+S	java:S106S"9Replace this use of System.out or System.err by a logger.(Üô58ÓÆÛİ¨0
+X	java:S125T"<This block of commented-out lines of code should be removed.(ñÕëŒ8“ŸÜİ¨0
+N
+java:S1874X"3Remove this use of "getCellType"; it is deprecated.(¸’ßíùÿÿÿÿ
+S	java:S106Y"9Replace this use of System.out or System.err by a logger.(Üô58ŒÉÜİ¨0
+X	java:S125Z"<This block of commented-out lines of code should be removed.(á‚‡¼8ŒÉÜİ¨0
+Z	java:S106n"9Replace this use of System.out or System.err by a logger.(ÑÚáÍùÿÿÿÿ8ÉÜİ¨0
+U	java:S106q"9Replace this use of System.out or System.err by a logger.(ãïÅô8ÉÜİ¨0
